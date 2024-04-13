@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|c:\\users\\suleymangulter\\desktop\\csharpegitim\\fitnessotomasyonu\\fitnessotomasyonu\\guncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\guncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\guncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\guncellesil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\uyelerigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\uyeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\loginpage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\loginpage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessotomasyonu\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BEC764-7A21-4677-8173-1990B92F1FB3}|fitnessOtomasyonu\\fitnessOtomasyonu.csproj|solutionrelative:fitnessotomasyonu\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UyeleriGoruntule.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeleriGoruntule.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\UyeleriGoruntule.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeleriGoruntule.cs [Tasar\u0131m]",
+              "RelativeToolTip": "fitnessOtomasyonu\\UyeleriGoruntule.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:09:21.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UyeleriGoruntule.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeleriGoruntule.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\UyeleriGoruntule.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeleriGoruntule.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\UyeleriGoruntule.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAtwD4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:42:07.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\AnaSayfa.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\AnaSayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:51:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\Program.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:15:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UyeEkle.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeEkle.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\UyeEkle.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeEkle.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\UyeEkle.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAxwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:16:04.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuncelleSil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\GuncelleSil.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\GuncelleSil.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\GuncelleSil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "fitnessOtomasyonu\\GuncelleSil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:44:33.356Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuncelleSil.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\GuncelleSil.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\GuncelleSil.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\GuncelleSil.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\GuncelleSil.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAD4vz4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:42:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UyeEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeEkle.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\UyeEkle.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\UyeEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "fitnessOtomasyonu\\UyeEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:18:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "fitnessOtomasyonu\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:27:43.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Odeme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\Odeme.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\Odeme.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\Odeme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "fitnessOtomasyonu\\Odeme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:04:22.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Odeme.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\Odeme.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\Odeme.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\Odeme.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\Odeme.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAtwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:42:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\LoginPage.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:43:28.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "fitnessOtomasyonu\\LoginPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:28:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.resx",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.resx",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\LoginPage.resx",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.resx",
+              "RelativeToolTip": "fitnessOtomasyonu\\LoginPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-27T07:28:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.Designer.cs",
+              "RelativeDocumentMoniker": "fitnessOtomasyonu\\LoginPage.Designer.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\Desktop\\csharpegitim\\fitnessOtomasyonu\\fitnessOtomasyonu\\LoginPage.Designer.cs",
+              "RelativeToolTip": "fitnessOtomasyonu\\LoginPage.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:28:54.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
